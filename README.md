@@ -14,3 +14,8 @@
 
 * [Refactoring: Improving the Design of Existing Code](https://amzn.to/2KVr7ee) | Martin Fowler, Kent Beck
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://amzn.to/3240HN7) | Robert C. Martin
+
+## Ruby
+
+* [Programming Ruby](https://amzn.to/325XQ6k) by Dave Thomas
+* [Metaprogramming Ruby 2: Program Like the Ruby Pros](https://amzn.to/326Owzi) by Paolo Perrotta
