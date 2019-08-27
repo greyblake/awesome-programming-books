@@ -35,6 +35,12 @@
 * [The Rust Programming Language](https://amzn.to/2Zv9xBO) | Steve Klabnik, Carol Nichols
 * [Programming WebAssembly with Rust: Unified Development for Web, Mobile, and Embedded Applications](https://amzn.to/2KVsKsm) | Kevin Hoffman
 
+## Python
+
+* [Learning Python](https://amzn.to/2ZsbeVP) | Mark Lutz
+* [Fluent Python: Clear, Concise, and Effective Programming](https://amzn.to/329kP0w) | Luciano Ramalho
+* [Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript](https://amzn.to/2LcZ60Q) | Harry Percival
+
 ## Artificial intelligence
 
 * [Artificial Intelligence for Humans, Volume 1: Fundamental Algorithms](https://amzn.to/2KYOWBO) | Jeff Heaton
