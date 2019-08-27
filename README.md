@@ -9,3 +9,8 @@
 * [Patterns of Enterprise Application Architecture | Martin Fowler](https://amzn.to/2HrxQKU)
   <details><summary>description</summary><p>This book catalogues software design patterns commonly used when developing Enterprise Software Applications:</p> <p>Domain Logic: Transaction Script, Table Module, Domain Model, Service Layer.</p> <p>Data Source: Table Data Gateway, Row Data Gateway, Active Record, Data Mapper.</p> <p>Object-Relational Behavioral: Unit of Work, Identity Map, Lazy Load.</p> <p>Object-Relational Structural: Identity Field, Foreign Key Mapping, Association Table Mapping, Dependent Mapping, Embedded Value, Serialized LOB, Single Table Inheritance, Class Table Inheritance, Concrete Table Inheritance, Inheritance Mappers.</p> <p>Object-Relational Metadata Mapping: Metadata Mapping, Query Object, Repository.</p> <p>Web Presentation: Model View Controller, Page Controller, Front Controller, Template View, Transform View, Two Step View, Application Controller.</p> <p>Distribution: Remote Facade, Data Transfer Object.</p> <p>Concurrence: Optimistic Offline Lock, Pessimistic Offline Lock, Coarse-Grained Lock.</p> <p>Session State: Client Session State, Server Session State, Database Session State.</p> <p>Miscellaneous: Gateway, Mapper, Layer Supertype, Separate Interface, Registry, Value Object, Money, Special Case, Plug-in, Service Stub, Record Set</p> </details>
 * [Domain-Driven Design: Tackling Complexity in the Heart of Software (2003) | Eric Evans](https://amzn.to/2ZvFyOq)
+
+## Refactoring
+
+* [Refactoring: Improving the Design of Existing Code](https://amzn.to/2KVr7ee) | Martin Fowler, Kent Beck
+* [Clean Code: A Handbook of Agile Software Craftsmanship](https://amzn.to/3240HN7) | Robert C. Martin
