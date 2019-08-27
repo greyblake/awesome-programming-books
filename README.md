@@ -1,4 +1,4 @@
-# Programming books
+# Awesome Programming Books
 
 > a list of amazing programming books
 
@@ -40,3 +40,8 @@
 * [Artificial Intelligence for Humans, Volume 1: Fundamental Algorithms](https://amzn.to/2KYOWBO) | Jeff Heaton
 * [Artificial Intelligence for Humans, Volume 2: Nature-Inspired Algorithms](https://amzn.to/2KVkoB8) | Jeff Heaton
 * [Artificial Intelligence for Humans, Volume 3: Deep Learning and Neural Networks ](https://amzn.to/2ZrJgEz) | Jeff Heaton
+
+## Operating systems
+
+* [UNIX System Administration Handbook](https://amzn.to/2NxRGIh) | Evi Nemeth, Garth Snyder, Scott Seebass, Trent Hein
+* [Understanding the Linux Kernel](https://amzn.to/2KYeG1q) | Daniel P. Bovet, Marco Cesati
