@@ -41,6 +41,13 @@
 * [Fluent Python: Clear, Concise, and Effective Programming](https://amzn.to/329kP0w) | Luciano Ramalho
 * [Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript](https://amzn.to/2LcZ60Q) | Harry Percival
 
+## JavaScript
+
+* [JavaScript: The Definitive Guide: Activate Your Web Pages](https://amzn.to/2zu2Oh6) | David Flanagan
+* [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://amzn.to/2zu2Oh6) | Nicholas C. Zakas
+* [The Principles of Object-Oriented JavaScript](https://amzn.to/2Pjd3zm) | Nicholas C. Zakas
+* [Programming TypeScript: Making Your JavaScript Applications Scale](https://amzn.to/2ZyfZrU) | Boris Cherny
+
 ## Elixir
 
 * [Programming Elixir ≥ 1.6: Functional |> Concurrent |> Pragmatic |> Fun](https://amzn.to/329isuG) | Dave Thomas
