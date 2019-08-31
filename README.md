@@ -53,6 +53,13 @@
 * [Programming Elixir ≥ 1.6: Functional |> Concurrent |> Pragmatic |> Fun](https://amzn.to/329isuG) | Dave Thomas
 * [Programming Phoenix ≥ 1.4: Productive |> Reliable |> Fast](https://amzn.to/2zqTpac) | Chris McCord, Bruce Tate, Jose Valim
 
+## Go
+
+* [The Go Programming Language](https://amzn.to/2MMQVeM) | Donovan, Kernighan
+* [Get Programming with Go](https://amzn.to/2Lbcyn8) | Youngman, Peppe
+* [Introducing Go: Build Reliable, Scalable Programs](https://amzn.to/2zPINSt) | Caleb Doxsey
+* [Learning Functional Programming in Go](https://amzn.to/2NJInoA) | Lex Sheehan
+
 ## Artificial intelligence
 
 * [Artificial Intelligence for Humans, Volume 1: Fundamental Algorithms](https://amzn.to/2KYOWBO) | Jeff Heaton
