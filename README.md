@@ -48,6 +48,17 @@
 * [The Principles of Object-Oriented JavaScript](https://amzn.to/2Pjd3zm) | Nicholas C. Zakas
 * [Programming TypeScript: Making Your JavaScript Applications Scale](https://amzn.to/2ZyfZrU) | Boris Cherny
 
+## Java
+
+* [Learn Java: A Crash Course Guide to Learn Java in 1 Week](https://amzn.to/2ZJ0zB0) | Timothy C. Needham
+* [Head First Java](https://amzn.to/2ZCHTTG) | Kathy Sierra, Bert Bates
+* [Intro to Java Programming, Comprehensive Version](https://amzn.to/2zFZlMi) | Y. Daniel Liang
+* [Effective Java](https://amzn.to/2MPq29X) | Joshua Bloch
+
+### Java / Spring
+* [Pro Spring 5](https://amzn.to/2LdeknM) | Cosmina, Harrop, Schaefer, Ho
+* [Spring Microservices](https://amzn.to/2NIEwbl) | Rajesh RV
+
 ## Elixir
 
 * [Programming Elixir ≥ 1.6: Functional |> Concurrent |> Pragmatic |> Fun](https://amzn.to/329isuG) | Dave Thomas
