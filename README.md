@@ -40,6 +40,7 @@
 * [Learning Python](https://amzn.to/2ZsbeVP) | Mark Lutz
 * [Fluent Python: Clear, Concise, and Effective Programming](https://amzn.to/329kP0w) | Luciano Ramalho
 * [Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript](https://amzn.to/2LcZ60Q) | Harry Percival
+* [Publishing Python Packages](https://www.manning.com/books/publishing-python-packages) | Dane Hillard
 
 ## JavaScript
 
